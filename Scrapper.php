@@ -33,7 +33,7 @@ class Scrapper
 
     private function makeUrl()
     {
-        $this->downloadUrl = 'http://api.youtube6download.top/fetch/link.php?i=' . $this->videoId;
+        $this->downloadUrl = 'http://embed.yt-mp3.com/watch?v='.$this->videoId.'=mp3';
     }
 
     public function getErrors()
