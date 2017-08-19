@@ -1,0 +1,19 @@
+{
+    "name": "zodchii/youtube-to-mp3-scrapper",
+    "type": "api",
+    "description": "youtube to mp3 api scrapper",
+    "keywords": ["youtube to mp3 api"],
+    "homepage": "https://github.com/Zodchii/scrapper",
+    "license": "FREE",
+    "authors": [
+        {
+            "name": "zodchii",
+            "email": "maxim.rozenberg@gmail.com",
+            "homepage": "localhost/api/youtube2mp3",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
